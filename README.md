@@ -5,7 +5,6 @@
 - 检测路线：基于 YOLOv8 的刀具检测训练、验证、预测
 - 分类路线：基于 `data/类别名/图片` 的刀具分类训练与桌面预测
 
-当前最稳定、最完整的成品是分类路线。你已经可以直接用训练好的分类模型进行本地预测，也可以把项目上传到 GitHub 后给其他用户在 macOS 或 Windows 上复现。
 
 ## 项目结构
 
@@ -146,7 +145,7 @@ bash start_labelimg.sh
 bash start_labelimg.sh 车刀
 ```
 
-如果你要标“同一张图多个刀具”的检测数据，推荐新建一个混合场景目录，例如：
+如果要标“同一张图多个刀具”的检测数据，推荐新建一个混合场景目录，例如：
 
 ```bash
 bash start_labelimg.sh data/mixed_scenes labels/mixed_scenes
@@ -174,7 +173,7 @@ start_labelimg.bat
 
 ## Label Studio 网页标注
 
-如果你本机的 `LabelImg` 会闪退，推荐改用本地网页标注：
+如果本机的 `LabelImg` 会闪退，推荐改用本地网页标注：
 
 - 启动脚本：`start_labelstudio.sh`
 - 预设标签配置：`configs/label_studio_tool15.xml`
@@ -194,7 +193,7 @@ http://127.0.0.1:8080
 
 ## 分类训练
 
-你的原始数据格式是：
+原始数据格式是：
 
 ```text
 data/
@@ -236,7 +235,7 @@ python scripts/train_classify.py \
 - `configs/data/tool15_real_bootstrap.yaml`
 - `configs/data/tool15_user.yaml`
 
-如果你是自己新标的混合场景图片，可以先整理：
+如果是自己新标的混合场景图片，可以先整理：
 
 ```bash
 python scripts/prepare_dataset.py \
@@ -245,7 +244,7 @@ python scripts/prepare_dataset.py \
   --output datasets/tool15_user
 ```
 
-然后训练你自己的用户数据：
+然后训练自己的用户数据：
 
 ```bash
 python scripts/train.py \
@@ -283,4 +282,4 @@ python scripts/train.py \
 - 分类模型默认路径固定为 `models/`，更适合分享
 - 分类训练默认设备改成自动选择
 
-如果你下一步要继续做“别人直接浏览器访问”，最推荐的是把 `scripts/web_ui.py` 再整理成公开部署版本，例如部署到 Hugging Face Spaces。
+如果下一步要继续做“别人直接浏览器访问”，最推荐的是把 `scripts/web_ui.py` 再整理成公开部署版本，例如部署到 Hugging Face Spaces。
