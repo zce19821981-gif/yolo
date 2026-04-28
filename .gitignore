@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.cache
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.venv/
+.venv-labelstudio/
+venv/
+weights/
+exports/
+temp/
+tmp/
+
+# Large or machine-specific outputs
+runs/
+.labelstudio/
+datasets/tool15/images/
+datasets/tool15/labels/
+datasets/tool15/reports/
+
+# Keep portable model artifacts shareable
+!models/
+!models/*.pt

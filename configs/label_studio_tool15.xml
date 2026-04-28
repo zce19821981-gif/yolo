@@ -1,0 +1,20 @@
+<View>
+  <Image name="image" value="$image" zoom="true"/>
+  <RectangleLabels name="label" toName="image">
+    <Label value="turning_tool" background="#B23A48" category="0"/>
+    <Label value="milling_cutter" background="#D96C06" category="1"/>
+    <Label value="drill_bit" background="#F2A104" category="2"/>
+    <Label value="reamer" background="#9C9A40" category="3"/>
+    <Label value="boring_tool" background="#5B8C5A" category="4"/>
+    <Label value="tap" background="#2F7D79" category="5"/>
+    <Label value="broach" background="#227C9D" category="6"/>
+    <Label value="hob" background="#375A7F" category="7"/>
+    <Label value="slotting_tool" background="#5D4E8C" category="8"/>
+    <Label value="planer_tool" background="#7A4988" category="9"/>
+    <Label value="twist_drill" background="#A23B72" category="10"/>
+    <Label value="end_mill" background="#C75146" category="11"/>
+    <Label value="alloy_saw_blade" background="#E07A5F" category="12"/>
+    <Label value="countersink" background="#8D6E63" category="13"/>
+    <Label value="counterbore_drill" background="#6C757D" category="14"/>
+  </RectangleLabels>
+</View>

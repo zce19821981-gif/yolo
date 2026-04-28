@@ -1,0 +1,21 @@
+path: ../../datasets/tool15_user
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: turning_tool
+  1: milling_cutter
+  2: drill_bit
+  3: reamer
+  4: boring_tool
+  5: tap
+  6: broach
+  7: hob
+  8: slotting_tool
+  9: planer_tool
+  10: twist_drill
+  11: end_mill
+  12: alloy_saw_blade
+  13: countersink
+  14: counterbore_drill

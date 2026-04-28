@@ -1,0 +1,150 @@
+{
+  "turning_tool": [
+    {
+      "image_name": "turning_tool_000.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:1800s_Sidewinder_by_Dick_Enstad.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/1800s_Sidewinder_by_Dick_Enstad.jpg",
+      "license_short_name": "CC BY 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Tibgshaw\" title=\"User:Tibgshaw\">Tib Shaw</a>",
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "search_term": "lathe tool"
+    },
+    {
+      "image_name": "turning_tool_001.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:1k62_lathe_components_arrangement.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/1k62_lathe_components_arrangement.png",
+      "license_short_name": "CC0",
+      "artist": "Soviet people",
+      "credit": "Lathe handbook - Lathe building plant \"Ordzhonikidze\" Chelyabinsk 1975",
+      "search_term": "lathe tool"
+    },
+    {
+      "image_name": "turning_tool_002.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Back-knife_lathe_(Carpentry_and_Joinery,_1925).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Back-knife_lathe_%28Carpentry_and_Joinery%2C_1925%29.jpg",
+      "license_short_name": "Public domain",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Andy_Dingley\" title=\"User:Andy Dingley\">Andy Dingley</a> (scanner)",
+      "credit": "Scan from <cite class=\"book\" style=\"font-style:normal\">Ednie, John (editor) (1925)      <i> Carpentry and Joinery</i>, Carpentry and Joinery, vol. IV, <a href=\"https://en.wikipedia.org/wiki/en:London\" class=\"extiw\" title=\"w:en:London\"><span title=\"capital and largest city of England and the United Kingdom\">London</span></a>:  Gresham Publishing, pp. 54, fig. 7  <small></small></cite>",
+      "search_term": "lathe tool"
+    },
+    {
+      "image_name": "turning_tool_003.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:HwacheonCentreLathe_460x1000.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/HwacheonCentreLathe_460x1000.jpg",
+      "license_short_name": "CC BY-SA 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Graibeard\" title=\"User:Graibeard\">Glenn McKechnie</a>",
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "search_term": "lathe tool"
+    }
+  ],
+  "milling_cutter": [
+    {
+      "image_name": "milling_cutter_000.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Milling_machine_(Vertical,_Manual)_NT.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Milling_machine_%28Vertical%2C_Manual%29_NT.PNG",
+      "license_short_name": "CC BY 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tosaka&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tosaka (page does not exist)\">Tosaka</a>",
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\">Own work by uploader (ref:澤武一著　『フライス盤作業』　日刊工業新聞　2008年5月28日初版第１刷発行　<span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/9784526060632\" title=\"Special:BookSources/9784526060632\">9784526060632</a>)</bdi></i></span>)",
+      "search_term": "face mill"
+    }
+  ],
+  "drill_bit": [
+    {
+      "image_name": "drill_bit_000.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:2mm_diamond_drill_bits_macro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2mm_diamond_drill_bits_macro.jpg",
+      "license_short_name": "CC0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Junkyardsparkle\" title=\"User:Junkyardsparkle\">Junkyardsparkle</a>",
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "search_term": "drill bit tool"
+    }
+  ],
+  "reamer": [],
+  "boring_tool": [],
+  "tap": [
+    {
+      "image_name": "tap_000.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gewindebohrer.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gewindebohrer.jpg",
+      "license_short_name": "Public domain",
+      "artist": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:MichaelHaeckel\" class=\"extiw\" title=\"de:Benutzer:MichaelHaeckel\">Michael Häckel</a>",
+      "credit": "Deutsch Wikipedia <a href=\"https://de.wikipedia.org/wiki/Bild:Gewindebohrer.jpg\" class=\"extiw\" title=\"de:Bild:Gewindebohrer.jpg\">de:Bild:Gewindebohrer.jpg</a>",
+      "search_term": "thread tap tool"
+    },
+    {
+      "image_name": "tap_001.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tap-tap_city.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Tap-tap_city.jpg",
+      "license_short_name": "CC BY-SA 3.0",
+      "artist": null,
+      "credit": null,
+      "search_term": "thread tap tool"
+    },
+    {
+      "image_name": "tap_002.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tap_and_T-wrench.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tap_and_T-wrench.jpg",
+      "license_short_name": "CC BY-SA 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Omegatron\" title=\"User:Omegatron\">User:Omegatron</a>",
+      "credit": "Taken by <a href=\"//commons.wikimedia.org/wiki/User:Omegatron\" title=\"User:Omegatron\">User:Omegatron</a> using a <a href=\"https://en.wikipedia.org/wiki/Canon\" class=\"extiw\" title=\"w:Canon\">Canon</a> <a href=\"//commons.wikimedia.org/wiki/Category:Taken_with_Canon_Digital_IXUS_IIs\" title=\"Category:Taken with Canon Digital IXUS IIs\">Powershot SD110</a>, with modification in Photo Acute and <a href=\"https://en.wikipedia.org/wiki/The_GIMP\" class=\"extiw\" title=\"w:The GIMP\">The GIMP</a>",
+      "search_term": "thread tap tool"
+    },
+    {
+      "image_name": "tap_003.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hà_Huy_Tập.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/H%C3%A0_Huy_T%E1%BA%ADp.jpg",
+      "license_short_name": "Public domain",
+      "artist": "Unknown",
+      "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://daihoidang.vn/nhan-su/ha-huy-tap-1092.vnp\">TỔNG BÍ THƯ HÀ HUY TẬP</a>",
+      "search_term": "tap and die tap"
+    }
+  ],
+  "broach": [
+    {
+      "image_name": "broach_000.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:St._Mary's_Church,_Ketton_-_geograph.org.uk_-_738102.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/St._Mary%27s_Church%2C_Ketton_-_geograph.org.uk_-_738102.jpg",
+      "license_short_name": "CC BY-SA 2.0",
+      "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/1712\">Humphrey Bolton</a>",
+      "credit": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/738102\">geograph.org.uk</a>",
+      "search_term": "broach tool"
+    }
+  ],
+  "hob": [],
+  "slotting_tool": [],
+  "planer_tool": [
+    {
+      "image_name": "planer_tool_000.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Planing_machine_with_electric_motor_drive_(Rankin_Kennedy,_Modern_Engines,_Vol_VI).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Planing_machine_with_electric_motor_drive_%28Rankin_Kennedy%2C_Modern_Engines%2C_Vol_VI%29.jpg",
+      "license_short_name": "Public domain",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Andy_Dingley\" title=\"User:Andy Dingley\">Andy Dingley</a> (scanner)",
+      "credit": "Scan from <cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Rankin_Kennedy\" class=\"extiw\" title=\"en:Rankin Kennedy\"> Kennedy, Rankin</a> (1912 edition of 1905 book.)      <i> The Book of Modern Engines and Power Generators</i>, vol. VI, <a href=\"https://en.wikipedia.org/wiki/en:London\" class=\"extiw\" title=\"w:en:London\"><span title=\"capital and largest city of England and the United Kingdom\">London</span></a>:  Caxton  <small></small></cite>",
+      "search_term": "planer tool metalworking"
+    },
+    {
+      "image_name": "planer_tool_001.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Plane_parts.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Plane_parts.jpg",
+      "license_short_name": "CC BY-SA 3.0",
+      "artist": null,
+      "credit": null,
+      "search_term": "planer cutting tool"
+    }
+  ],
+  "twist_drill": [],
+  "end_mill": [],
+  "alloy_saw_blade": [],
+  "countersink": [
+    {
+      "image_name": "countersink_000.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Countersunk_and_counterbored_holes_cross-section.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Countersunk_and_counterbored_holes_cross-section.png",
+      "license_short_name": "CC0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Waerloeg&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Waerloeg (page does not exist)\">Waerloeg</a>",
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, (<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\">self-drawn</bdi></i></span>)",
+      "search_term": "countersink cutter"
+    }
+  ],
+  "counterbore_drill": []
+}

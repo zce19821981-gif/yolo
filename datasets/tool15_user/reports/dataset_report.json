@@ -1,0 +1,42 @@
+{
+  "original_sample_count": 307,
+  "train_count_before_augment": 247,
+  "val_count": 30,
+  "test_count": 30,
+  "generated_train_count": 493,
+  "train_count_after_augment": 740,
+  "original_class_distribution": {
+    "turning_tool": 20,
+    "milling_cutter": 20,
+    "drill_bit": 20,
+    "reamer": 20,
+    "boring_tool": 20,
+    "tap": 20,
+    "broach": 20,
+    "hob": 25,
+    "slotting_tool": 21,
+    "planer_tool": 20,
+    "twist_drill": 21,
+    "end_mill": 20,
+    "alloy_saw_blade": 20,
+    "countersink": 20,
+    "counterbore_drill": 20
+  },
+  "train_class_distribution_after_augment": {
+    "turning_tool": 44,
+    "milling_cutter": 53,
+    "drill_bit": 45,
+    "reamer": 46,
+    "boring_tool": 50,
+    "tap": 42,
+    "broach": 53,
+    "hob": 59,
+    "slotting_tool": 53,
+    "planer_tool": 47,
+    "twist_drill": 47,
+    "end_mill": 55,
+    "alloy_saw_blade": 47,
+    "countersink": 45,
+    "counterbore_drill": 54
+  }
+}

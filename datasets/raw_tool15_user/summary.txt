@@ -1,0 +1,15 @@
+turning_tool: 20
+milling_cutter: 20
+drill_bit: 20
+reamer: 20
+boring_tool: 20
+tap: 20
+broach: 20
+hob: 25
+slotting_tool: 21
+planer_tool: 20
+twist_drill: 21
+end_mill: 20
+alloy_saw_blade: 20
+countersink: 20
+counterbore_drill: 20

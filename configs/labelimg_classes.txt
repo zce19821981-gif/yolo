@@ -1,0 +1,15 @@
+turning_tool
+milling_cutter
+drill_bit
+reamer
+boring_tool
+tap
+broach
+hob
+slotting_tool
+planer_tool
+twist_drill
+end_mill
+alloy_saw_blade
+countersink
+counterbore_drill
